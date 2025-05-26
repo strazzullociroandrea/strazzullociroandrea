@@ -52,13 +52,11 @@
 - 💼 LinkedIn: [Ciro Andrea Strazzullo](www.linkedin.com/in/ciro-andrea-strazzullo-8484a5339)
 
 ### 🧠 Altro
-<p>Cofondatore azienda StackHorizon
-<p align="center">
-  <a href="https://stackhorizon.it">
-    <img src="https://img.shields.io/badge/Sito-Web-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sito Web" />
-  </a>
-  <a href="https://github.com/stackhorizon">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+
+🔹 Cofondatore di **StackHorizon**  
+     Soluzioni software su misura, sviluppo web & DevOps.
+
+- 🌐 Sito Web: [stackhorizon.it](https://stackhorizon.it)
+- 💻 GitHub: [github.com/stackhorizon](https://github.com/stackhorizon)
+
 
