@@ -1,17 +1,17 @@
 <h1 align="center">Ciao, sono Ciro Andrea Strazzullo</h1>
-<h3 align="center">Studente di Informatica presso l'Università dell'Insubria</h3>
+<h3 align="center">Junior FullStack Developer</h3>
 
 ---
 
-### 👨‍💻 Chi sono
+### Chi sono
 
-- 🎓 Diplomato in Informatica
-- 🎓 Studio **Informatica** all’**Università dell’Insubria**
-- 🚀 Curioso e motivato ad apprendere nuove tecnologie
+-  Diplomato in Informatica
+-  Sviluppatore FullStack e cofondatore di StackHorizon
+-  Curioso per natura, focalizzato sulla scrittura di codice pulito e sull'apprendimento continuo delle ultime tecnologie (
 
 ---
 
-### 🛠️ Tecnologie che uso
+### Tecnologie che uso
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -32,31 +32,18 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white"/>
 </p>
 
 ---
+ 
+### Contattami
 
-### 📊 Statistiche GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strazzullociroandrea&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="strazzullociroandrea's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=strazzullociroandrea&theme=dark&hide_border=true" alt="strazzullociroandrea's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strazzullociroandrea&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="strazzullociroandrea's GitHub Stats" />
-</p>
-
-### 📫 Contattami
-
-- 📧 Email: ciroandreastrazzullo06@gmail.com 
-- 💼 LinkedIn: [Ciro Andrea Strazzullo](www.linkedin.com/in/ciro-andrea-strazzullo-8484a5339)
-
-### 🧠 Altro
-
-🔹 Cofondatore di **StackHorizon**  
-     Soluzioni software su misura, sviluppo web & DevOps.
-
-- 🌐 Sito Web: [stackhorizon.it](https://stackhorizon.it)
-- 💻 GitHub: [github.com/stackhorizon](https://github.com/stackhorizon)
+- Email: info@cirostrazzullo.it
+- Sito web: <a href="https://cirostrazzullo.it">https://cirostrazzullo.it</a>
+- LinkedIn: [Ciro Andrea Strazzullo](www.linkedin.com/in/ciro-andrea-strazzullo-8484a5339)
+ 
 
 
