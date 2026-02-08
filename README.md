@@ -7,7 +7,7 @@
 
 -  Diplomato in Informatica
 -  Sviluppatore FullStack e cofondatore di StackHorizon
--  Curioso per natura, focalizzato sulla scrittura di codice pulito e sull'apprendimento continuo delle ultime tecnologie (
+-  Curioso per natura, focalizzato sulla scrittura di codice pulito e sull'apprendimento continuo delle ultime tecnologie
 
 ---
 
