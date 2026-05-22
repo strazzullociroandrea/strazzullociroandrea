@@ -1,17 +1,16 @@
-<h1 align="center">Ciao, sono Ciro Andrea Strazzullo</h1>
+<h1 align="center">Hi, i'm Ciro Andrea Strazzullo</h1>
 <h3 align="center">Junior FullStack Developer</h3>
 
 ---
 
-### Chi sono
+### About Me
 
--  Diplomato in Informatica
--  Sviluppatore FullStack e cofondatore di StackHorizon
--  Curioso per natura, focalizzato sulla scrittura di codice pulito e sull'apprendimento continuo delle ultime tecnologie
+-  High school diploma in IT
+-  Full-Stack Developer & Co-founder of Stackhorizon
 
 ---
 
-### Tecnologie che uso
+### Technology
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -39,10 +38,10 @@
 
 ---
  
-### Contattami
+### My links
 
-- Email: info@cirostrazzullo.it
-- Sito web: <a href="https://cirostrazzullo.it">https://cirostrazzullo.it</a>
+- E-mail: info@cirostrazzullo.it
+- Web site: <a href="https://cirostrazzullo.it">https://cirostrazzullo.it</a>
 - LinkedIn: [Ciro Andrea Strazzullo](www.linkedin.com/in/ciro-andrea-strazzullo-8484a5339)
  
 
